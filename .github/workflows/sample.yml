@@ -15,4 +15,4 @@ jobs:
       uses: actions/checkout@v4
     
     - name: Run hello world
-      run: echo "Hello, World! This workflow was triggered successfully."
+      run: echo "Hello World! This workflow was triggered successfully."
